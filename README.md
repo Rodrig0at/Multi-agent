@@ -2,9 +2,8 @@
 
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Hardware Prerequisites](#hardware-prerequisites)
-3. [Technologies](#technologies)
-4. [Installation](#installation)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 6. [Licence](#licence)
