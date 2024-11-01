@@ -35,7 +35,7 @@ $ pip install PyOpenGL PyOpenGL_accelerate
 ```
 
 2. **Verify Installation**
-Once installed, you can verify that adeeptpicarpro is correctly installed by importing it in a Python environment.
+Once installed, you can verify that OpenGl is correctly installed by importing it in a Python environment.
 ```
 import pygame
 import OpenGL
@@ -53,7 +53,7 @@ To collaborate with our project, follow these steps:
 ## FAQs
 ***
 No hay, no existen
-*These sources offer extensive documentation, including setup procedures, operational guidelines, and troubleshooting assistance, ensuring a thorough understanding of the Adeept Picar Pro ecosystem.*
+
 
 ### Licence
 ***
